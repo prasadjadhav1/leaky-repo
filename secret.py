@@ -4,4 +4,4 @@
 token = 'nAH2VzKrMrRjySLlt8HCdFU3tM2TUuUZgh39NX'
 
 'ghp_rfADHPiJeKRhiz812QHQomgoXhsV7t17kcCE'
-vercel_token = "bEtcHqbrrhtoMhW7jek9FDLT"
+vercel = "bEtcHqbrrhtoMhW7jek9FDLT"
