@@ -5,3 +5,5 @@ token = 'nAH2VzKrMrRjySLlt8HCdFU3tM2TUuUZgh39NX'
 
 'ghp_rfADHPiJeKRhiz812QHQomgoXhsV7t17kcCE'
 vercel_token = "bEtcHqbrrhtoMhW7jek9FDLT"
+"eyJraWQiOiI0MTk5NTM1ODIxMyIsImFsZyI6IkVTMjU2In0.eyJwIjoiMTY0MDQ0MjkyOjE2NDA0NDI5MiIsImlzcyI6IlNGOjEwMjMiLCJleHAiOjE3NTE5NjE0Njd9.H14LlLJSAAFPPPki0wLFYQ_5_nLoFvA0D53vVM9j8jgW86CPnkbho0fdMzAzptMf-9hNIdXXWQ4xVfwLlC_1XQ"
+scaleway_secret_key ="5b813340-7fa9-4892-9290-d0adc3c544dd"
